@@ -1,0 +1,3 @@
+package com.example.sqlitedbaeroluggage
+
+data class Tag(val id:Int, val bagtag: String, val room: String)
